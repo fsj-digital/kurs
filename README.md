@@ -5,7 +5,16 @@ Das FSJ Digital bietet jungen Freiwilligen die Möglichkeit, digitale Entwicklun
 Die FSJler sind Wissensvermittler*innen in Technikfragen für junge und alte Menschen und begleiten den digitalen Wandel in der Einsatzstelle aktiv mit.
 ## **Wie sieht die Arbeit in der Einsatzstelle aus?**
 **Mögliche Tätigkeiten:** <br><br>
-
+- Begleitung von Digitalisierungsprozessen in der Einsatzstelle
+- Erarbeitung digitaler Konzepte in den Einrichtungen
+- Mitarbeit bei der Gestaltung der Website und Social Media 
+- Programmieren
+- Video- und Fotobearbeitung 
+- Beratung in Technikfragen
+- Instandhaltung der Technik, Updates durchführen, Fehlerbehebung
+- Teilnahme an Veranstaltungen
+- Durchführung von medienpädagogischen Workshops
+**→ die Arbeitsbereiche im FSJ Digital variieren aufgrund von unterschiedlichen Ausstattungen und Konzepte der Einrichtungen sehr stark von Einsatzstelle zu Einsatzstelle**
 ## **Mögliche Seminarinhalte des FSJ Digital**
 ## **Einsatzstellen in Heidelberg & Umgebung**
 ## **Kontakt**
