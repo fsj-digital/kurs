@@ -16,6 +16,13 @@ Die FSJler sind Wissensvermittler*innen in Technikfragen für junge und alte Men
 - Durchführung von medienpädagogischen Workshops <br><br>
 **→ die Arbeitsbereiche im FSJ Digital variieren aufgrund von unterschiedlichen Ausstattungen und Konzepte der Einrichtungen sehr stark von Einsatzstelle zu Einsatzstelle**
 ## **Mögliche Seminarinhalte des FSJ Digital**
+- Python Crashkurs
+- Notion
+- Exkursionen
+- Foto- und Videoprojekte
+- Medienkompetenzen
+- Praxisreflexionen
+- Abschlussfahrt
 ## **Einsatzstellen in Heidelberg & Umgebung**
 ## **Kontakt**
 Verantwortlich: Martin Kaspar, Dipl.-Päd., Belfortstr.2, 69115 Heidelberg <br><br>
