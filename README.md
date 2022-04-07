@@ -23,6 +23,7 @@ Die FSJler sind Wissensvermittler*innen in Technikfragen für junge und alte Men
 - Foto- und Videoprojekte
 - Medienkompetenzen
 - Praxisreflexionen
+- Gruppenübungen
 - Abschlussfahrt
 <br><br>
 ## **Einsatzstellen in Heidelberg & Umgebung**
