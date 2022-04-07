@@ -15,6 +15,7 @@ Die FSJler sind Wissensvermittler*innen in Technikfragen für junge und alte Men
 - Teilnahme an Veranstaltungen
 - Durchführung von medienpädagogischen Workshops <br><br>
 **→ die Arbeitsbereiche im FSJ Digital variieren aufgrund von unterschiedlichen Ausstattungen und Konzepte der Einrichtungen sehr stark von Einsatzstelle zu Einsatzstelle**
+<br><br>
 ## **Mögliche Seminarinhalte des FSJ Digital**
 - Python Crashkurs
 - Notion
